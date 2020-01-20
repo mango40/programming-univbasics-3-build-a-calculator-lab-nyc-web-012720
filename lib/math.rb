@@ -2,7 +2,7 @@ def addition(num1, num2)
 num1 + num2
 puts num1 + num2
 end
-additiona = num1 = 5, num 2 = 4
+addition = num1 = 5, num 2 = 4
 
 puts num1 + num2
 
